@@ -1,0 +1,8 @@
+{
+    "dinner":
+    [
+        {"food": "Super BLT","price": 7.99,"calories": 600},
+        {"food": "Super Soup","price": 6.99,"calories": 500},
+        {"food": "Super Salad","price": 5.99,"calories": 400}
+    ]
+}

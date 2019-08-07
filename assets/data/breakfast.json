@@ -1,0 +1,8 @@
+{
+    "breakfast":
+    [
+        {"food": "Super Eggs","price": 5.99,"calories": 300},
+        {"food": "Bacon'n Eggs","price": 7.99,"calories": 600},
+        {"food": "Salsage'n Eggs","price": 8.99,"calories": 700}
+    ]
+}

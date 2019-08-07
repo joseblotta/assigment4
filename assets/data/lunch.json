@@ -1,0 +1,8 @@
+{
+    "lunch":
+    [
+        {"food": "Super Steak","price": 15.99,"calories": 1300},
+        {"food": "Super Chicken","price": 13.99,"calories": 900},
+        {"food": "Super Tuna","price": 11.99,"calories": 800}
+    ]
+}
